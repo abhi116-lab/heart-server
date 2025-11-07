@@ -1,0 +1,1 @@
+{"classes": ["Myocardial", "Arrhythmia", "Coronary", "Normal"], "class_to_idx": {"Myocardial": 0, "Arrhythmia": 1, "Coronary": 2, "Normal": 3}, "idx_to_class": {"0": "Myocardial", "1": "Arrhythmia", "2": "Coronary", "3": "Normal"}, "img_size": 224, "accuracy": 1.0}
