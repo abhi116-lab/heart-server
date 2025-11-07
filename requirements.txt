@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+tensorflow
+opencv-python
+numpy
+google-generativeai
+werkzeug
+gunicorn
